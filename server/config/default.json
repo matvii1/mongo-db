@@ -1,0 +1,6 @@
+{
+  "port": "2501",
+  "mongoUri": "mongodb+srv://mongo-db:vfndtq@cluster0.ppgbbrc.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "some_secret_key",
+  "baseUrl": "http://localhost:2501"
+}
